@@ -8,12 +8,12 @@ Affichage des résultats avec l'image de couverture
 
 📚 2. Page d’un livre
 
-Image couverture
-Titre
-Auteur
-Résumé (si dispo)
-Bouton “Ajouter à ma liste de lecture”
-Champ “Note personnelle”
+ - Image couverture
+ - Titre
+ - Auteur
+ - Résumé (si dispo)
+ - Bouton “Ajouter à ma liste de lecture”
+ - Champ “Note personnelle”
 
 👤 3. Espace membre
 
@@ -30,4 +30,4 @@ Statut : “À lire / En cours / Terminé”
 
 L’utilisateur peut :
   - Noter un livre
-  - Laisser un commentaire personnel
+  - (Laisser un commentaire personnel ?)
