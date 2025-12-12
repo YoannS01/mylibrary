@@ -4,7 +4,7 @@ Fonctionnalités du projet My Library
 
 Champ de recherche
 Appel à l’API OpenLibrary
-Affichage des résultats avec la couverture (il existe une URL : https://covers.openlibrary.org/b/id/{coverId}-L.jpg)
+Affichage des résultats avec l'image de couverture
 
 📚 2. Page d’un livre
 
